@@ -24,6 +24,11 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
 
 #### Developer Tools
 
+- [Official Website](https://www.clubhouse.com/)
+- [Python API](https://github.com/stypr/clubhouse-py) Clubhouse cli API create with Python
+- [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) An unofficial Clubhouse desktop client developed with ElectronJS
+- [Swagger API](https://github.com/zhuowei/ClubhouseAPI) Web service for Clubhouse API with Swagger
+
 
 
 #### End Points
