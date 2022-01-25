@@ -1,4 +1,4 @@
-# clubhouse
+# Awesome Clubhouse
 
 <img src="screenshot.png" alt="clubhouse" width="300" />
 
@@ -8,17 +8,25 @@ Clubhouse is a new type of social network based on voice—where people around t
 
 FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF WARRANTY.
 
-## Installation
+## contents
 
-1. Clone the repo
-```bash
-git clone https:/github.com/ehsanghaffarii/clubhouse
-cd clubhouse
 
-```
-2. Enjoy it
+- [Awesome Clubhouse](#awesome-clubhouse)
+- [Contents](#contents)
+- [Developer Tools](#developer-tools)
+- [End Points](#end-points)
+- [Reference](#reference)
+- [License](#license)
 
-## End-Points
+
+
+<!--start-->
+
+#### Developer Tools
+
+
+
+#### End Points
 
 A minimal list of [Clubhouse](https://clubhouse.com) API
 
@@ -127,7 +135,7 @@ get_event
 
 ```
 
-## Reference
+#### Reference
 
 [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
 
