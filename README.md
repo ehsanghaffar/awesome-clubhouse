@@ -4,6 +4,8 @@
 
 Clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
 
+Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
+
 ## Important To Known
 
 FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF WARRANTY.
@@ -13,9 +15,6 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
 - [Awesome Clubhouse](#awesome-clubhouse)
     - [Official](#official)
     - [Developer Tools](#developer-tools)
-    - [Code Snippets](#code-snippets)
-        - [Python](#python)
-        - [NodeJS](#nodejs)
     - [Top Clubs](#top-clubs)
         - [Tech](#tech)
         - [Science](#science)
@@ -24,6 +23,9 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
         - [Education](#education)
         - [Market](#market)
         - [Fun](#fun)
+    - [Code Snippets](#code-snippets)
+        - [Python](#python)
+        - [NodeJS](#nodejs)
     - [End Points](#end-points)
 - [Resources](#resources)
     - [Articles](#aericles)
@@ -44,65 +46,18 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
 
 ## Developer Tools
 
-- [Python API](https://github.com/stypr/clubhouse-py) Clubhouse cli API create with Python
-- [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) An unofficial Clubhouse desktop client developed with ElectronJS
-- [Swagger API](https://github.com/zhuowei/ClubhouseAPI) Web service for Clubhouse API with Swagger
+* [Python API](https://github.com/stypr/clubhouse-py) Clubhouse cli API create with Python
+* [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) An unofficial Clubhouse desktop client developed with ElectronJS
+* [Swagger API](https://github.com/zhuowei/ClubhouseAPI) Web service for Clubhouse API with Swagger
+* [Open Clubhouse](https://github.com/ai-eks/OpenClubhouse) A third-part web application based on flask to play Clubhouse audio.
+* [HouseClub](https://github.com/grishka/Houseclub) A barebones unofficial Android app for Clubhouse.
+* [Clubhouse Flutter](https://github.com/perpetio/clubhouse) Clubhouse clone built on Flutter
+* [TypeScript Clubhouse](https://github.com/transitive-bullshit/clubhouse) Clubhouse API client and social graph crawler for TypeScript.
+* [hipster-house](https://github.com/zhuowei/hipster.house) An intentionally terrible third-party Clubhouse client for web browsers.
+* [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) 高仿 ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了Clubhouse的上麦，下麦，邀请，语音音量提示等功能。
+* [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) 👋 Clubhouse API library for PHP
 
 
-## Code Snippets
-
-* Python
-
-<details>
-<summary>View code snippets </summary>
-
-  * Payload example
-
-  ```python
-  
-  payload = "{\r\n \"channel\": \"MwkK3arv\" , \"user_id\": 1928455578  \r\n}"
-  
-  ````
-  
-  * Headers examples
-
-  ```python
-  
-  headers = {
-        'CH-Languages': 'en-US',
-        'CH-Locale': 'en_US',
-        'Accept': 'application/json',
-        'Accept-Encoding': 'gzip, deflate',
-        'CH-AppBuild': '490',
-        'CH-AppVersion': '1.0.0',
-        'CH-UserID': '990405533',
-        'User-Agent': 'clubhouse/490 (iPhone; iOS 14.4; Scale/2.00)',
-        'Connection': 'close',
-        'Content-Type': 'application/json; charset=utf-8',
-        'Authorization': 'Token '+token[i]
-        }
-        
-  ```
- </details>
-
-
-* NodeJS
- 
-<details>
-<summary>View code snippets </summary>
-
-  * Payload example
-    
-  ```javascript
-   
-    payload = { 
-            "channel": "MwkK3arv",
-            "user_id": "1928455578"
-            }
-  ```
-
-</details>
-  
 
 ## Top Clubs
 
@@ -142,12 +97,67 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
   
     
 
+## Code Snippets
+
+* Python
+
+<details>
+<summary>📃 View code snippets </summary>
+
+  * Payload example
+
+  ```python
+  
+  payload = "{\r\n \"channel\": \"MwkK3arv\" , \"user_id\": 1928455578  \r\n}"
+  
+  ````
+  
+  * Headers examples
+
+  ```python
+  
+  headers = {
+        'CH-Languages': 'en-US',
+        'CH-Locale': 'en_US',
+        'Accept': 'application/json',
+        'Accept-Encoding': 'gzip, deflate',
+        'CH-AppBuild': '490',
+        'CH-AppVersion': '1.0.0',
+        'CH-UserID': '990405533',
+        'User-Agent': 'clubhouse/490 (iPhone; iOS 14.4; Scale/2.00)',
+        'Connection': 'close',
+        'Content-Type': 'application/json; charset=utf-8',
+        'Authorization': 'Token '+token[i]
+        }
+        
+  ```
+ </details>
+
+
+* NodeJS
+ 
+<details>
+<summary>📃 View code snippets </summary>
+
+  * Payload example
+    
+  ```javascript
+   
+    payload = { 
+            "channel": "MwkK3arv",
+            "user_id": "1928455578"
+            }
+  ```
+
+</details>
+  
+
 ## End Points
 
 Full list of [Clubhouse](https://clubhouse.com) API endpoints.
 
 <details>
-<summary>View End-Point list</summary>
+<summary>📃 View End-Point list</summary>
 
 ```bash
 get_release_notes
@@ -280,8 +290,8 @@ get_event
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ehsanghaffarii/awesome-clubhouse/blob/main/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/ehsanghaffarii/awesome-clubhouse) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/ehsanghaffarii/awesome-clubhouse) by adding :+1: to them.
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@ehsanghaffar](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
