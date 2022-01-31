@@ -14,6 +14,9 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
 - [Awesome Clubhouse](#awesome-clubhouse)
 - [Contents](#contents)
 - [Developer Tools](#developer-tools)
+- [Code Snippets](#code-snippets)
+  - [Python](#python)
+  - [NodeJS](#nodejs)
 - [End Points](#end-points)
 - [Reference](#reference)
 - [License](#license)
@@ -29,6 +32,53 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
 - [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) An unofficial Clubhouse desktop client developed with ElectronJS
 - [Swagger API](https://github.com/zhuowei/ClubhouseAPI) Web service for Clubhouse API with Swagger
 
+
+#### Code Snippets
+
+   ##### Python
+
+   - Payload example
+
+
+  ```python
+  
+  payload = "{\r\n \"channel\": \"MwkK3arv\" , \"user_id\": 1928455578  \r\n}"
+  
+  ````
+  
+   - Headers examples
+
+  ```python
+  
+  headers = {
+        'CH-Languages': 'en-US',
+        'CH-Locale': 'en_US',
+        'Accept': 'application/json',
+        'Accept-Encoding': 'gzip, deflate',
+        'CH-AppBuild': '490',
+        'CH-AppVersion': '1.0.0',
+        'CH-UserID': '990405533',
+        'User-Agent': 'clubhouse/490 (iPhone; iOS 14.4; Scale/2.00)',
+        'Connection': 'close',
+        'Content-Type': 'application/json; charset=utf-8',
+        'Authorization': 'Token '+token[i]
+        }
+        
+  ```
+ 
+   ##### NodeJS
+  
+   - Payload example
+   
+   
+  ```javascript
+   
+    payload = { 
+            "channel": "MwkK3arv",
+            "user_id": "1928455578"
+            }
+  ```
+  
 
 
 #### End Points
