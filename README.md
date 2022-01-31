@@ -1,21 +1,20 @@
-# Awesome Clubhouse
-
 <img src="screenshot.png" alt="clubhouse" width="300" />
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Clubhouse  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
-
 ---
 
-- [Content](#content)
+
+  - [Content](#content)
     - [Official](#official)
     - [Developer Tools](#developer-tools)
     - [Top Clubs](#top-clubs)
         - [Tech](#tech)
+        - [Programming](#programming)
         - [Science](#science)
         - [Movie](#movie)
         - [Food & Drink](#food-drink)
@@ -30,8 +29,7 @@ Feel free to take a look. You might learn new things. They have been designed to
     - [Articles](#aericles)
     - [Newsletters](#newsletters)
     - [Videos](#videos)
-    - [Websites](#websites)
-
+    - [Websites](#websites
 
 
 <!--start-->
@@ -62,39 +60,39 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 ## Top Clubs
 
-  * Tech
-    * [Tech & Chill](https://www.clubhouse.com/club/techchill)
-    * [Startup Club](https://clubhousedb.com/club/45-startup-club)
-    * [Tech Talks](https://clubhousedb.com/club/3225-tech-talks)
-    * [Github](https://clubhousedb.com/club/735673473-github) Unofficial Github Club
+#### Tech
+   * [Tech & Chill](https://www.clubhouse.com/club/techchill)
+   * [Startup Club](https://clubhousedb.com/club/45-startup-club)
+   * [Tech Talks](https://clubhousedb.com/club/3225-tech-talks)
+   * [Github](https://clubhousedb.com/club/735673473-github) Unofficial Github Club
     
-  * Programming
-    * [Python](https://clubhousedb.com/club/598487268-python) Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
-    * [Javascript](https://clubhousedb.com/club/1253333235-javascript) JavaScript is the everywhere language; one of the most popular programming language in the world.
-    * [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) A community of developers who share their knowledge and experience in the field of web development.
-    * [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) 
+#### Programming
+   * [Python](https://clubhousedb.com/club/598487268-python) Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
+   * [Javascript](https://clubhousedb.com/club/1253333235-javascript) JavaScript is the everywhere language; one of the most popular programming language in the world.
+   * [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) A community of developers who share their knowledge and experience in the field of web development.
+   * [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) 
 
-  * Science
-    * [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC
+#### Science
+   * [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC
 
-  * Movie
-    * [Movie Club](https://clubhousedb.com/club/105-movie-club) It's like book club but for movies
+#### Movie
+   * [Movie Club](https://clubhousedb.com/club/105-movie-club) It's like book club but for movies
   
-  * Food & Drink
-    * [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders and foodies in the nutrition + plant-based space.
+#### Food & Drink
+   * [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders and foodies in the nutrition + plant-based space.
 
-  * Education
-    * [What Are You Reading?](https://clubhousedb.com/club/764-what-are-you-reading) Let's talk about what we're reading. It can be books, articles, blog posts, magazines, or whatever.
-    * [English Language](https://clubhousedb.com/club/290630288-english-language) Network and practice speaking with people from all around the world using the English Language.
+#### Education
+   * [What Are You Reading?](https://clubhousedb.com/club/764-what-are-you-reading) Let's talk about what we're reading. It can be books, articles, blog posts, magazines, or whatever.
+   * [English Language](https://clubhousedb.com/club/290630288-english-language) Network and practice speaking with people from all around the world using the English Language.
 
-  * Market
-    * [Bitcoin](https://clubhousedb.com/club/597-bitcoin) A club for open and friendly dialog on bitcoin technology, markets, culture, and ecosystem.
-    * [Marketing Club](https://clubhousedb.com/club/131-marketing-club)  A community for all things marketing. 
+#### Market
+   * [Bitcoin](https://clubhousedb.com/club/597-bitcoin) A club for open and friendly dialog on bitcoin technology, markets, culture, and ecosystem.
+   * [Marketing Club](https://clubhousedb.com/club/131-marketing-club)  A community for all things marketing. 
 
-  * Fun
-    * [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) A club for the beauty and the geeks
-    * [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
-    * [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers)
+#### Fun
+   * [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) A club for the beauty and the geeks
+   * [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
+   * [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers)
   
     
 
