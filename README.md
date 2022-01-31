@@ -2,17 +2,16 @@
 
 <img src="screenshot.png" alt="clubhouse" width="300" />
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
-## Important To Known
-
-FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF WARRANTY.
 
 ---
 
-- [Awesome Clubhouse](#awesome-clubhouse)
+- [Content](#content)
     - [Official](#official)
     - [Developer Tools](#developer-tools)
     - [Top Clubs](#top-clubs)
@@ -32,11 +31,13 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
     - [Newsletters](#newsletters)
     - [Videos](#videos)
     - [Websites](#websites)
-- [Contributing](#contributing)
 
 
 
 <!--start-->
+
+# Content
+
 
 ## Official
 
