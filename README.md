@@ -8,29 +8,31 @@ Clubhouse is a new type of social network based on voice—where people around t
 
 FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF WARRANTY.
 
-## contents
-
+---
 
 - [Awesome Clubhouse](#awesome-clubhouse)
-- [Contents](#contents)
-- [Developer Tools](#developer-tools)
-- [Code Snippets](#code-snippets)
-  - [Python](#python)
-  - [NodeJS](#nodejs)
-- [Top Clubs](#top-clubs)
-  - [Tech](#tech)
-  - [Fun](#fun)
-  - [Science](#science)
-  - [Education](#education)
-- [End Points](#end-points)
-- [Reference](#reference)
-- [License](#license)
+    - [Developer Tools](#developer-tools)
+    - [Code Snippets](#code-snippets)
+        - [Python](#python)
+        - [NodeJS](#nodejs)
+    - [Top Clubs](#top-clubs)
+        - [Tech](#tech)
+        - [Fun](#fun)
+        - [Science](#science)
+        - [Education](#education)
+    - [End Points](#end-points)
+- [Resources](#resources)
+    - [Articles](#aericles)
+    - [Newsletters](#newsletters)
+    - [Videos](#videos)
+    - [Websites](#websites)
+- [Contributing](#contributing)
 
 
 
 <!--start-->
 
-#### Developer Tools
+## Developer Tools
 
 - [Official Website](https://www.clubhouse.com/)
 - [Python API](https://github.com/stypr/clubhouse-py) Clubhouse cli API create with Python
@@ -38,12 +40,11 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
 - [Swagger API](https://github.com/zhuowei/ClubhouseAPI) Web service for Clubhouse API with Swagger
 
 
-#### Code Snippets
+## Code Snippets
 
-   ##### Python
+* Python
 
-   - Payload example
-
+  * Payload example
 
   ```python
   
@@ -51,7 +52,7 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
   
   ````
   
-   - Headers examples
+  * Headers examples
 
   ```python
   
@@ -71,11 +72,10 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
         
   ```
  
-   ##### NodeJS
+* NodeJS
   
-   - Payload example
-   
-   
+  * Payload example
+    
   ```javascript
    
     payload = { 
@@ -85,16 +85,19 @@ FOR REFERENCE AND EDUCATION PURPOSES ONLY. THIS DOES NOT COME WITH ANY KINDS OF 
   ```
   
 
-#### Top Clubs
+## Top Clubs
 
-  ##### Tech
+  * Tech
     
-   - [Tech & Chill](https://www.clubhouse.com/club/techchill)
+    * [Tech & Chill](https://www.clubhouse.com/club/techchill)
     
 
-#### End Points
+## End Points
 
 A minimal list of [Clubhouse](https://clubhouse.com) API
+
+<details>
+<summary>View End-Point list</summary>
 
 ```bash
 get_release_notes
@@ -200,12 +203,35 @@ edit_event
 get_event 
 
 ```
-
-#### Reference
-
-[Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
+</details>
 
 
-# LICENSE
+# Resources
 
-This repository is distributed with GNU General Public License v2.0.
+## Articles
+
+* [Analyzing Clubhouse](https://blog.theori.io/research/korean/analyzing-clubhouse/)
+
+## Newsletters
+
+* [Clubhouse Newsletter](https://www.clubhouse.com/newsletter)
+
+## Videos
+
+
+## Websites
+
+* [Clubhouse](https://www.clubhouse.com/)
+* [Clubhouse Api](https://clubhouseapi.com/)
+* [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
+
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ehsanghaffarii/awesome-clubhouse/blob/main/CONTRIBUTING.md) first.
+
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/ehsanghaffarii/awesome-clubhouse) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+
+- - -
+
+If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
