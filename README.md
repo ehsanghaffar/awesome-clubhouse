@@ -6,10 +6,11 @@ Clubhouse is a new type of social network based on voice—where people around t
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
----
+
+Table of contents:
 
 
-  - [Content](#content)
+- [Clubhouse](#clubhouse)
     - [Official](#official)
     - [Developer Tools](#developer-tools)
     - [Top Clubs](#top-clubs)
@@ -23,7 +24,7 @@ Feel free to take a look. You might learn new things. They have been designed to
         - [Fun](#fun)
     - [Code Snippets](#code-snippets)
         - [Python](#python)
-        - [NodeJS](#nodejs)
+        - [Node.js](#nodejs)
     - [End Points](#end-points)
 - [Resources](#resources)
     - [Articles](#aericles)
@@ -34,76 +35,76 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 <!--start-->
 
-## Content
+## Clubhouse
 
 
-## Official
+### Official
 
-* [Official Website](https://clubhouse.com)
-* [Official Android App](https://play.google.com/store/apps/details?id=com.clubhouse)
-* [Official iOS App](https://itunes.apple.com/us/app/clubhouse/id1209829091)
+- [Official Website](https://clubhouse.com)
+- [Official Android App](https://play.google.com/store/apps/details?id=com.clubhouse)
+- [Official iOS App](https://itunes.apple.com/us/app/clubhouse/id1209829091)
 
-## Developer Tools
+### Developer Tools
 
-* [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse cli API create with Python
-* [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with ElectronJS
-* [Swagger API](https://github.com/zhuowei/ClubhouseAPI) - Web service for Clubhouse API with Swagger
-* [Open Clubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-part web application based on flask to play Clubhouse audio.
-* [HouseClub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse.
-* [Clubhouse Flutter](https://github.com/perpetio/clubhouse) - Clubhouse clone built on Flutter
-* [TypeScript Clubhouse](https://github.com/transitive-bullshit/clubhouse) - Clubhouse API client and social graph crawler for TypeScript.
-* [hipster-house](https://github.com/zhuowei/hipster.house) - An intentionally terrible third-party Clubhouse client for web browsers.
-* [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - 高仿 ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了Clubhouse的上麦，下麦，邀请，语音音量提示等功能。
-* [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) - Clubhouse API library for PHP
+- [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse cli API create with Python
+- [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with ElectronJS
+- [Swagger API](https://github.com/zhuowei/ClubhouseAPI) - Web service for Clubhouse API with Swagger
+- [Open Clubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-part web application based on flask to play Clubhouse audio.
+- [HouseClub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse.
+- [Clubhouse Flutter](https://github.com/perpetio/clubhouse) - Clubhouse clone built on Flutter
+- [TypeScript Clubhouse](https://github.com/transitive-bullshit/clubhouse) - Clubhouse API client and social graph crawler for TypeScript.
+- [hipster-house](https://github.com/zhuowei/hipster.house) - An intentionally terrible third-party Clubhouse client for web browsers.
+- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - 高仿 ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了Clubhouse的上麦，下麦，邀请，语音音量提示等功能。
+- [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) - Clubhouse API library for PHP
 
 
 
-## Top Clubs
+### Top Clubs
 
 #### Tech
-   * [Tech & Chill](https://www.clubhouse.com/club/techchill)
-   * [Startup Club](https://clubhousedb.com/club/45-startup-club)
-   * [Tech Talks](https://clubhousedb.com/club/3225-tech-talks)
-   * [GitHub](https://clubhousedb.com/club/735673473-github) - Unofficial GitHub Club
+- [Tech & Chill](https://www.clubhouse.com/club/techchill)
+- [Startup Club](https://clubhousedb.com/club/45-startup-club)
+- [Tech Talks](https://clubhousedb.com/club/3225-tech-talks)
+- [GitHub](https://clubhousedb.com/club/735673473-github) - Unofficial GitHub Club
     
 #### Programming
-   * [Python](https://clubhousedb.com/club/598487268-python) - Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
-   * [JavaScript](https://clubhousedb.com/club/1253333235-javascript) - JavaScript is the everywhere language; one of the most popular programming language in the world.
-   * [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) - A community of developers who share their knowledge and experience in the field of web development.
-   * [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) - Persian Developers club
+- [Python](https://clubhousedb.com/club/598487268-python) - Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
+- [JavaScript](https://clubhousedb.com/club/1253333235-javascript) - JavaScript is the everywhere language; one of the most popular programming language in the world.
+- [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) - A community of developers who share their knowledge and experience in the field of web development.
+- [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) - Persian Developers club
 
 #### Science
-   * [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) - This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC
+- [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) - This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC
 
 #### Movie
-   * [Movie Club](https://clubhousedb.com/club/105-movie-club) - It's like book club but for movies
+- [Movie Club](https://clubhousedb.com/club/105-movie-club) - It's like book club but for movies
   
 #### Food & Drink
-   * [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) - From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders and foodies in the nutrition + plant-based space.
+- [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) - From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders and foodies in the nutrition + plant-based space.
 
 #### Education
-   * [What Are You Reading?](https://clubhousedb.com/club/764-what-are-you-reading) - Let's talk about what we're reading. It can be books, articles, blog posts, magazines, or whatever.
-   * [English Language](https://clubhousedb.com/club/290630288-english-language) - Network and practice speaking with people from all around the world using the English Language.
+- [What Are You Reading?](https://clubhousedb.com/club/764-what-are-you-reading) - Let's talk about what we're reading. It can be books, articles, blog posts, magazines, or whatever.
+- [English Language](https://clubhousedb.com/club/290630288-english-language) - Network and practice speaking with people from all around the world using the English Language.
 
 #### Market
    * [Bitcoin](https://clubhousedb.com/club/597-bitcoin) - A club for open and friendly dialog on bitcoin technology, markets, culture, and ecosystem.
    * [Marketing Club](https://clubhousedb.com/club/131-marketing-club) - A community for all things marketing. 
 
 #### Fun
-   * [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) - A club for the beauty and the geeks
-   * [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) - The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
-   * [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are hot developer just join
+- [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) - A club for the beauty and the geeks
+- [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) - The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
+- [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are hot developer just join
   
     
 
-## Code Snippets
+### Code Snippets
 
-* Python
+- Python
 
 <details>
 <summary>📃 View code snippets </summary>
 
-  * Payload example
+- Payload example
 
 ```python
   
@@ -111,7 +112,7 @@ Feel free to take a look. You might learn new things. They have been designed to
   
 ````
   
-  * Headers examples
+- Headers examples
 
 ```python
   
@@ -133,7 +134,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 </details>
 
 
-* Node.js
+- Node.js
  
 <details>
 <summary>📃 View code snippets </summary>
@@ -151,7 +152,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 </details>
   
 
-## End Points
+### End Points
 
 Full list of [Clubhouse](https://clubhouse.com) - API endpoints.
 
@@ -269,20 +270,20 @@ get_event
 
 ### Articles
 
-* [Analyzing Clubhouse](https://blog.theori.io/research/korean/analyzing-clubhouse/)
+- [Analyzing Clubhouse](https://blog.theori.io/research/korean/analyzing-clubhouse/)
 
 ### Newsletters
 
-* [Clubhouse Newsletter](https://www.clubhouse.com/newsletter)
+- [Clubhouse Newsletter](https://www.clubhouse.com/newsletter)
 
 ### Videos
 
 
 ### Websites
 
-* [Clubhouse](https://www.clubhouse.com/)
-* [Clubhouse Api](https://clubhouseapi.com/)
-* [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
+- [Clubhouse](https://www.clubhouse.com/)
+- [Clubhouse Api](https://clubhouseapi.com/)
+- [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
 
 
 ## Contributing
