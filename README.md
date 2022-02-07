@@ -5,7 +5,7 @@
 
 # Awesome Clubhouse  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
+The clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
 ## Contents
@@ -62,7 +62,7 @@ Feel free to take a look. You might learn new things. They have been designed to
     
 ### Programming
 - [Python](https://clubhousedb.com/club/598487268-python) - Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
-- [JavaScript](https://clubhousedb.com/club/1253333235-javascript) - JavaScript is the everywhere language; one of the most popular programming language in the world.
+- [JavaScript](https://clubhousedb.com/club/1253333235-javascript) - JavaScript is the everywhere language; one of the most popular programming languages in the world.
 - [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) - A community of developers who share their knowledge and experience in the field of web development.
 - [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) - Persian Developers club.
 
@@ -70,10 +70,10 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) - This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC.
 
 ### Movie
-- [Movie Club](https://clubhousedb.com/club/105-movie-club) - It's like book club but for movies.
+- [Movie Club](https://clubhousedb.com/club/105-movie-club) - It's like a book club but for movies.
   
 ### Food and Drink
-- [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) - From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders and foodies in the nutrition + plant-based space.
+- [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) - From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders, and foodies in the nutrition + plant-based space.
 
 ### Education
 - [What Are You Reading?](https://clubhousedb.com/club/764-what-are-you-reading) - Let's talk about what we're reading. It can be books, articles, blog posts, magazines, or whatever.
@@ -86,7 +86,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 ### Fun
 - [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) - A club for the beauty and the geeks.
 - [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) - The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
-- [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are hot developer just join.
+- [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are a hot developer just join.
       
 
 ## Code Snippets
@@ -278,12 +278,5 @@ get_event
 - [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
 
 
-## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ehsanghaffarii/awesome-clubhouse/blob/main/CONTRIBUTING.md) first.
-
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/ehsanghaffarii/awesome-clubhouse) by adding :+1: to them.
-
----
-
-If you have any question about this opinionated list, do not hesitate to contact me [@ehsanghaffar](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
+If you have any questions about this opinionated list, do not hesitate to contact me [@ehsanghaffar](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
