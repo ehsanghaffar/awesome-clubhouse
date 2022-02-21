@@ -3,7 +3,7 @@
 <img src="screenshot.png" alt="awesome clubhouse" width="300" />
 </a>
 
-# Awesome Clubhouse  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Clubhouse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
@@ -22,8 +22,8 @@ Feel free to take a look. You might learn new things. They have been designed to
   - [Market](#market)
   - [Fun](#fun)
 - [Code Snippets](#code-snippets)
-    - [Python](#python)
-    - [Node.js](#nodejs)
+  - [Python](#python)
+  - [Node.js](#nodejs)
 - [End Points](#end-points)
 - [Resources](#resources)
   - [Articles](#articles)
@@ -39,6 +39,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 ## Developer Tools
 
+- [API Collection](https://github.com/ehsanghaffarii/awesome-clubhouse/files/Insomnia_Clubhouse.json)
 - [Clubdeck](https://www.clubdeck.app/) - Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows.
 - [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse cli API create with Python.
 - [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with ElectronJS.
@@ -48,46 +49,52 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Clubhouse Flutter](https://github.com/perpetio/clubhouse) - Clubhouse clone built on Flutter.
 - [TypeScript Clubhouse](https://github.com/transitive-bullshit/clubhouse) - Clubhouse API client and social graph crawler for TypeScript.
 - [hipster-house](https://github.com/zhuowei/hipster.house) - An intentionally terrible third-party Clubhouse client for web browsers.
-- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) -  ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了Clubhouse的上麦，下麦，邀请，语音音量提示等功能.
+- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了 Clubhouse 的上麦，下麦，邀请，语音音量提示等功能.
 - [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) - Clubhouse API library for PHP.
-
 
 ## Top Clubs
 
 ### Tech
+
 - [Tech & Chill](https://www.clubhouse.com/club/techchill)
 - [Startup Club](https://clubhousedb.com/club/45-startup-club)
 - [Tech Talks](https://clubhousedb.com/club/3225-tech-talks)
 - [GitHub](https://clubhousedb.com/club/735673473-github) - Unofficial GitHub Club.
-    
+
 ### Programming
+
 - [Python](https://clubhousedb.com/club/598487268-python) - Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
 - [JavaScript](https://clubhousedb.com/club/1253333235-javascript) - JavaScript is the everywhere language; one of the most popular programming languages in the world.
 - [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) - A community of developers who share their knowledge and experience in the field of web development.
 - [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) - Persian Developers club.
 
 ### Science
+
 - [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) - This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC.
 
 ### Movie
+
 - [Movie Club](https://clubhousedb.com/club/105-movie-club) - It's like a book club but for movies.
-  
+
 ### Food and Drink
+
 - [Plant-based Food + Wellness](https://clubhousedb.com/club/307-plant-based-food-wellness) - From curious carnivore to fully vegan, all diets are welcome as we cook up healthy ways to get more plants on our plates with talks from the founders, funders, and foodies in the nutrition + plant-based space.
 
 ### Education
+
 - [What Are You Reading?](https://clubhousedb.com/club/764-what-are-you-reading) - Let's talk about what we're reading. It can be books, articles, blog posts, magazines, or whatever.
 - [English Language](https://clubhousedb.com/club/290630288-english-language) - Network and practice speaking with people from all around the world using the English Language.
 
 ### Market
+
 - [Bitcoin](https://clubhousedb.com/club/597-bitcoin) - A club for open and friendly dialog on bitcoin technology, markets, culture, and ecosystem.
-- [Marketing Club](https://clubhousedb.com/club/131-marketing-club) - A community for all things marketing. 
+- [Marketing Club](https://clubhousedb.com/club/131-marketing-club) - A community for all things marketing.
 
 ### Fun
+
 - [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) - A club for the beauty and the geeks.
 - [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) - The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
 - [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are a hot developer just join.
-      
 
 ## Code Snippets
 
@@ -99,15 +106,15 @@ Feel free to take a look. You might learn new things. They have been designed to
 - Payload example
 
 ```python
-  
+
   payload = "{\r\n \"channel\": \"MwkK3arv\" , \"user_id\": 1928455578  \r\n}"
-  
-````
-  
+
+```
+
 - Headers examples
 
 ```python
-  
+
   headers = {
         'CH-Languages': 'en-US',
         'CH-Locale': 'en_US',
@@ -121,28 +128,27 @@ Feel free to take a look. You might learn new things. They have been designed to
         'Content-Type': 'application/json; charset=utf-8',
         'Authorization': 'Token '+token[i]
         }
-        
+
 ```
+
 </details>
 
-
 ### Node.js
- 
+
 <details>
 <summary>📃 View code snippets </summary>
 
 - Payload example
-    
+
 ```javascript
-   
-    payload = { 
-            "channel": "MwkK3arv",
-            "user_id": "1928455578"
-            }
+payload = {
+  channel: "MwkK3arv",
+  user_id: "1928455578",
+};
 ```
 
 </details>
-  
+
 
 ## End Points
 
@@ -252,11 +258,11 @@ get_events_to_start
 delete_event
 create_event
 edit_event
-get_event 
+get_event
 
 ```
-</details>
 
+</details>
 
 ## Resources
 
@@ -270,13 +276,10 @@ get_event
 
 ### Videos
 
-
 ### Websites
 
 - [Clubhouse](https://www.clubhouse.com/)
 - [Clubhouse Api](https://clubhouseapi.com/)
 - [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
-
-
 
 If you have any questions about this opinionated list, do not hesitate to contact me [@ehsanghaffar](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
