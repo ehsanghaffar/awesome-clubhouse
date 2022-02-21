@@ -39,7 +39,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 ## Developer Tools
 
-- [API Collection](https://github.com/ehsanghaffarii/awesome-clubhouse/files/Insomnia_Clubhouse.json)
+- [API Collection](https://raw.githubusercontent.com/ehsanghaffarii/awesome-clubhouse/main/files/Insomnia_Clubhouse_2022-02-21.json) - Insomnia API collection
 - [Clubdeck](https://www.clubdeck.app/) - Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows.
 - [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse cli API create with Python.
 - [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with ElectronJS.
