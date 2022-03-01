@@ -11,6 +11,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 ## Contents
 
 - [Official](#official)
+- [Users Tools](#users-tools)
 - [Developer Tools](#developer-tools)
 - [Top Clubs](#top-clubs)
   - [Tech](#tech)
@@ -36,6 +37,15 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Official Website](https://joinclubhouse.com)
 - [Official Android App](https://play.google.com/store/apps/details?id=com.clubhouse)
 - [Official iOS App](https://itunes.apple.com/us/app/clubhouse/id1209829091)
+
+## Users Tools
+
+- [Bio Generator](https://perchance.org/owh9gelu4t) - Clubhouse Bio Generator.
+- [Bio Maker](https://bio.lvwzhen.com/) - Clubhouse Bio Maker.
+- [Bio Builder](https://www.clubhousebio.app/) - Creatively craft your bio and immediately get more followers.
+- [CH Bio Generator](https://apps.apple.com/us/app/ch-bio-generator/id1554078253) - CH bio generator is a must-have app for those who are actively using Clubhouse and want to increase their followers on Clubhouse.
+- [CHpic](https://chpic.me/) - CHpic is a simple online tool that adds a pop of color in the form of a ring around your profile photo.
+- [Border of Clubhouse](https://apps.apple.com/us/app/border-for-clubhouse-clubring/id1550842742) - Border for Clubhouse: Clubring is a mobile app that, just as the name says, allows you to create and save various rings around your profile photo.
 
 ## Developer Tools
 
