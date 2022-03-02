@@ -59,16 +59,16 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Clubhouse Flutter](https://github.com/perpetio/clubhouse) - Clubhouse clone built on Flutter.
 - [TypeScript Clubhouse](https://github.com/transitive-bullshit/clubhouse) - Clubhouse API client and social graph crawler for TypeScript.
 - [hipster-house](https://github.com/zhuowei/hipster.house) - An intentionally terrible third-party Clubhouse client for web browsers.
-- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了 Clubhouse 的上麦，下麦，邀请，语音音量提示等功能.
+- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - AnyHouse，A Chines client of clubhouse.
 - [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) - Clubhouse API library for PHP.
 
 ## Top Clubs
 
 ### Tech
 
-- [Tech & Chill](https://www.clubhouse.com/club/techchill)
-- [Startup Club](https://clubhousedb.com/club/45-startup-club)
-- [Tech Talks](https://clubhousedb.com/club/3225-tech-talks)
+- [Tech & Chill](https://www.clubhouse.com/club/techchill) - A club to meet and chill with tech peoples.
+- [Startup Club](https://clubhousedb.com/club/45-startup-club) - If you are a startup this club can help you to improve.
+- [Tech Talks](https://clubhousedb.com/club/3225-tech-talks) - Talk about technology features.
 - [GitHub](https://clubhousedb.com/club/735673473-github) - Unofficial GitHub Club.
 
 ### Programming
@@ -105,59 +105,6 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) - A club for the beauty and the geeks.
 - [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) - The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
 - [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are a hot developer just join.
-
-## Code Snippets
-
-### Python
-
-<details>
-<summary>📃 View code snippets </summary>
-
-- Payload example
-
-```python
-
-  payload = "{\r\n \"channel\": \"MwkK3arv\" , \"user_id\": 1928455578  \r\n}"
-
-```
-
-- Headers examples
-
-```python
-
-  headers = {
-        'CH-Languages': 'en-US',
-        'CH-Locale': 'en_US',
-        'Accept': 'application/json',
-        'Accept-Encoding': 'gzip, deflate',
-        'CH-AppBuild': '490',
-        'CH-AppVersion': '1.0.0',
-        'CH-UserID': '990405533',
-        'User-Agent': 'clubhouse/490 (iPhone; iOS 14.4; Scale/2.00)',
-        'Connection': 'close',
-        'Content-Type': 'application/json; charset=utf-8',
-        'Authorization': 'Token '+token[i]
-        }
-
-```
-
-</details>
-
-### Node.js
-
-<details>
-<summary>📃 View code snippets </summary>
-
-- Payload example
-
-```javascript
-payload = {
-  channel: "MwkK3arv",
-  user_id: "1928455578",
-};
-```
-
-</details>
 
 
 ## End Points
