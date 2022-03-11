@@ -1,7 +1,4 @@
-<!-- lint ignore awesome-git-repo-age -->
-<a href="https://clubhouse.com">
-<img src="screenshot.png" alt="awesome clubhouse" width="300" />
-</a>
+<h1><img src="screenshot.png" alt="awesome clubhouse" width="300" /></h1>
 
 # Awesome Clubhouse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -40,23 +37,23 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Bio Generator](https://perchance.org/owh9gelu4t) - Clubhouse Bio Generator.
 - [Bio Maker](https://bio.lvwzhen.com/) - Clubhouse Bio Maker.
 - [Bio Builder](https://www.clubhousebio.app/) - Creatively craft your bio and immediately get more followers.
-- [CH Bio Generator](https://apps.apple.com/us/app/ch-bio-generator/id1554078253) - CH bio generator is a must-have app for those who are actively using Clubhouse and want to increase their followers on Clubhouse.
+- [CH Bio Generator](https://apps.apple.com/us/app/ch-bio-generator/id1554078253) - The Clubhouse bio generator has multiple bios for startup founders, entrepreneurs, award winners, moderators, chefs, marketers, and many more.
 - [CHpic](https://chpic.me/) - CHpic is a simple online tool that adds a pop of color in the form of a ring around your profile photo.
-- [Border of Clubhouse](https://apps.apple.com/us/app/border-for-clubhouse-clubring/id1550842742) - Border for Clubhouse: Clubring is a mobile app that, just as the name says, allows you to create and save various rings around your profile photo.
+- [Border of Clubhouse](https://apps.apple.com/us/app/border-for-clubhouse-clubring/id1550842742) - A mobile app that allows you to create and save various rings around your profile photo.
 
 ## Developer Tools
 
-- [API Collection](https://raw.githubusercontent.com/ehsanghaffarii/awesome-clubhouse/main/files/Insomnia_Clubhouse_2022-02-21.json) - Insomnia API collection.
+- [API Collection](https://raw.githubusercontent.com/ehsanghaffarii/awesome-clubhouse/main/files/Insomnia_Clubhouse_2022-02-21.json) - A list of Clubhouse API EndPoints create for Insomnia app.
 - [Clubdeck](https://www.clubdeck.app/) - Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows.
-- [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse cli API create with Python.
+- [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse API written in Python. Standalone client included. For reference and education purposes only.
 - [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with ElectronJS.
 - [Swagger API](https://github.com/zhuowei/ClubhouseAPI) - Web service for Clubhouse API with Swagger.
-- [Open Clubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-part web application based on flask to play Clubhouse audio.
+- [Open Clubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-party web application based on Flask to play Clubhouse audio.
 - [HouseClub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse.
 - [Clubhouse Flutter](https://github.com/perpetio/clubhouse) - Clubhouse clone built on Flutter.
 - [TypeScript Clubhouse](https://github.com/transitive-bullshit/clubhouse) - Clubhouse API client and social graph crawler for TypeScript.
 - [hipster-house](https://github.com/zhuowei/hipster.house) - An intentionally terrible third-party Clubhouse client for web browsers.
-- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - AnyHouse，A Chines client of clubhouse.
+- [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - High imitation Clubhouse, voice live broadcast, voice chat room, high sound quality, extremely fast mic, open-source ClubHouse, realizes the functions of Clubhouse's mic on, off, invitation, voice volume prompt, and so on.
 - [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) - Clubhouse API library for PHP.
 
 ## Top Clubs
@@ -72,12 +69,11 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 - [Python](https://clubhousedb.com/club/598487268-python) - Coding and programming enthusiasts, Feel free to start rooms! Open to all levels! Suggest your friends as members!
 - [JavaScript](https://clubhousedb.com/club/1253333235-javascript) - JavaScript is the everywhere language; one of the most popular programming languages in the world.
-- [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) - A community of developers who share their knowledge and experience in the field of web development.
-- [Programmers](https://www.clubhouse.com/club/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D8%A7%D9%86) - Persian Developers club.
+- [Persian Developers Hub](https://clubhousedb.com/club/1630392162-persian-developers-hub) - Persian language programming community, useful discussions in the field of programming are held in this club.
 
 ### Science
 
-- [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) - This club is for everyone interested in - neuroscience/ decision-making, health/ wellness, tech/ computer science, marketing/ influence, start-ups/ VC.
+- [Human Behaviour](https://clubhousedb.com/club/156-human-behaviour) - This club is for everyone interested in - neuroscience, decision-making, health, tech, computer science, marketing, influence, start-ups.
 
 ### Movie
 
@@ -102,7 +98,6 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Beauty and The Geek](https://www.clubhouse.com/club/beauty-and-the-geek) - A club for the beauty and the geeks.
 - [Comedy Club](https://clubhousedb.com/club/1024-comedy-club) - The original and largest comedy community on Clubhouse with your favorite comedians, comedy writers, improv & sketch performers, and basically all things funny!
 - [Hot Developers](https://www.clubhouse.com/club/hot-persiandevelopers) - If you are a hot developer just join.
-
 
 ## End Points
 
