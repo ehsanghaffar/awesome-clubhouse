@@ -56,6 +56,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [hipster-house](https://github.com/zhuowei/hipster.house) - An intentionally terrible third-party Clubhouse client for web browsers.
 - [AnyHouse](https://github.com/anyRTC-UseCase/anyHouse) - High imitation Clubhouse, voice live broadcast, voice chat room, high sound quality, extremely fast mic, open-source ClubHouse, realizes the functions of Clubhouse's mic on, off, invitation, voice volume prompt, and so on.
 - [PHP Clubhouse](https://github.com/fadhiilrachman/clubhouse-api-php) - Clubhouse API library for PHP.
+- [Clubhouse Unfollower](https://github.com/soroushchehresa/clubhouse-unfollowers) - Find and unfollow people who unfollowed you or don't follow you back on Clubhouse.
 
 ## Top Clubs
 
