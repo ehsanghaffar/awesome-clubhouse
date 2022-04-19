@@ -1,8 +1,17 @@
+#
+# Join a room with a given room id and user auth token.
+# Author: Ehsan Ghaffar
+# This file is part of the spacepy.
+
+
 import requests
 
 url = "https://www.clubhouseapi.com/api/join_channel"
 
+token = "YOUR_TOKEN_HERE"
+
 payload = "{\n\t\"channel\": \"m3lqLypG\"\n}\n"
+
 headers = {
     "CH-Languages": "en-US",
     "CH-Locale": "en_US",
@@ -14,7 +23,7 @@ headers = {
     "User-Agent": "clubhouse/490 (iPhone; iOS 14.4; Scale/2.00)",
     "Connection": "alive",
     "Content-Type": "application/json; charset=utf-8",
-    "Authorization": "Token 3b68332e7dfb812ca56a2f59c9f92dc47bffb8dd"
+    "Authorization": "Token " + token
 }
 
 response = requests.request("POST", url, data=payload, headers=headers)
