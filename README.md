@@ -210,6 +210,11 @@ delete_event
 create_event
 edit_event
 get_event
+get_channel_messages?channel=PAD7ZWX7&is_chronological_order=0
+send_channel_message
+get_chats
+share_channel
+refresh_token
 
 ```
 
