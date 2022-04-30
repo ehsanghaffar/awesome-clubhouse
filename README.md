@@ -215,6 +215,7 @@ send_channel_message
 get_chats
 share_channel
 refresh_token
+active_ping
 
 ```
 
