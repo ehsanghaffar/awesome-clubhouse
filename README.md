@@ -231,6 +231,9 @@ refresh_token
 ### Articles
 
 - [Analyzing Clubhouse](https://blog.theori.io/research/korean/analyzing-clubhouse/)
+- [Clubhouse: Security and privacy in the new social media app](https://blog.avast.com/clubhouse-security-and-privacy-avast)
+- [Clubhouse says it will improve security after researchers raise China spying concerns](https://www.theverge.com/2021/2/14/22282772/clubhouse-improve-security-stanford-researchers-china-security)
+- [Clubhouse And Its Privacy & Security Risk](https://medium.com/technology-hits/clubhouse-and-its-security-risk-201526fd06d1)
 
 ### Newsletters
 
