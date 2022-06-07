@@ -47,7 +47,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [API Collection](https://raw.githubusercontent.com/ehsanghaffarii/awesome-clubhouse/main/files/Insomnia_Clubhouse_2022-02-21.json) - A list of Clubhouse API EndPoints create for Insomnia app.
 - [Clubdeck](https://www.clubdeck.app/) - Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows.
 - [Python API](https://github.com/stypr/clubhouse-py) - Clubhouse API written in Python. Standalone client included. For reference and education purposes only.
-- [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with ElectronJS.
+- [Clubhouse Desktop](https://github.com/callmearta/clubhouse-desktop) - An unofficial Clubhouse desktop client developed with Electron.js
 - [Swagger API](https://github.com/zhuowei/ClubhouseAPI) - Web service for Clubhouse API with Swagger.
 - [Open Clubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-party web application based on Flask to play Clubhouse audio.
 - [HouseClub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse.
