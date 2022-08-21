@@ -62,7 +62,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 ### Tech
 
-- [Tech & Chill](https://www.clubhouse.com/club/techchill) - A club to meet and chill with tech peoples.
+- [Tech & Chill](https://www.clubhouse.com/club/techchil) - A club to meet and chill with tech peoples.
 - [Startup Club](https://clubhousedb.com/club/45-startup-club) - If you are a startup this club can help you to improve.
 - [Tech Talks](https://clubhousedb.com/club/3225-tech-talks) - Talk about technology features.
 - [GitHub](https://clubhousedb.com/club/735673473-github) - Unofficial GitHub Club.
