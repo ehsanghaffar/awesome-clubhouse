@@ -41,6 +41,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [CHpic](https://chpic.me/) - CHpic is a simple online tool that adds a pop of color in the form of a ring around your profile photo.
 - [Border of Clubhouse](https://apps.apple.com/us/app/border-for-clubhouse-clubring/id1550842742) - A mobile app that allows you to create and save various rings around your profile photo.
 - [Unfollower](https://unfollow.netlify.app/) - Find who unfollow or block you.
+- [Rooms of Clubhouse](https://roomsofclubhouse.com/) - Search all open rooms in the Clubhouse App.
 
 ## Developer Tools
 
