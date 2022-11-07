@@ -4,8 +4,6 @@
  * @returns {void}
  * @author: Ehsan Ghaffar
  * @version: 1.0.0
- * @since: 2019-01-01
- * @license: MIT
  */
 
 const fetch = require("node-fetch");
@@ -22,10 +20,6 @@ let options = {
     "CH-Locale": "en_US",
     Accept: "application/json",
     "Accept-Encoding": "gzip, deflate",
-    "CH-AppBuild": "2576",
-    "CH-AppVersion": "1.0.0",
-    "CH-UserID": "<id>",
-    "User-Agent": "clubhouse/490 (iPhone; iOS 14.4; Scale/2.00)",
     Connection: "alive",
     "Content-Type": "application/json; charset=utf-8",
     Authorization: "Token" + token,
