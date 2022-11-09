@@ -114,3 +114,5 @@ send_channel_message
 get_chats
 share_channel
 refresh_token
+get_channel_messages
+
