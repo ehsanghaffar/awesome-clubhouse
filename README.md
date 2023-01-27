@@ -250,3 +250,10 @@ refresh_token
 - [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
 
 If you have any questions about this opinionated list, do not hesitate to contact me [@ehsanghaffar](https://twitter.com/ehsanghaffarii) on Twitter or open an issue on GitHub.
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ehsanghaffar/awesome-clubhouse.svg)](https://starchart.cc/ehsanghaffar/awesome-clubhouse)
+
+
