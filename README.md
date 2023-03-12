@@ -2,8 +2,7 @@
 
 # Awesome Clubhouse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The clubhouse is a new type of social network based on voice—where people around the world come together to talk, listen and learn from each other in real-time.
-Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
+Clubhouse is a relatively new social media platform that has taken the world by storm. It offers a unique space for people to come together and have discussions on a range of topics.
 
 ## Contents
 
