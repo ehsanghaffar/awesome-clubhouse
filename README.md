@@ -226,6 +226,11 @@ refresh_token
 
 </details>
 
+#### Example of using endpoints
+
+- [Change multiple user photo](/examples-using-restapi/change-multiple-user-photo.py)
+- [Join multiple user to room](/examples-using-restapi/join-room-multipe-user.py)
+
 ## Resources
 
 ### Articles
