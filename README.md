@@ -250,6 +250,7 @@ refresh_token
 ### Websites
 
 - [Clubhouse](https://www.clubhouse.com/)
+- [Clubhouse Web](https://www.clubhouse-web.com/)
 - [Clubhouse Api](https://clubhouseapi.com/)
 - [Clubhouse-cli](https://github.com/ehsanghaffarii/clubhouse-cli)
 
